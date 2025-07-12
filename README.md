@@ -16,7 +16,7 @@ The Pipeline will build and run a unit test on a sample go repository, and uploa
 - Package the app as a Docker image and upload it to Docker Hub. test - harness
 
 
-## Graphical Summary : test
+## Graphical Summary : test harness
 
 Hosted Infrastructure:
 
