@@ -13,7 +13,7 @@ The Pipeline will build and run a unit test on a sample go repository, and uploa
 
 ## Workflow
 - Build the code and run unit tests.
-- Package the app as a Docker image and upload it to Docker Hub. test - harness - test
+- Package the app as a Docker image and upload it to Docker Hub. test - harness - test -harness
 
 
 ## Graphical Summary : test harness
