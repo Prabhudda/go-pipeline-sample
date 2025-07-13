@@ -2,10 +2,10 @@
 
 Introduction
 ========================
-This repository is a home for snippets of YAML code and a sample hello world server for the Harness CI Community. test harness - admin -test testing
+This repository is a home for snippets of YAML code and a sample hello world server for the Harness CI Community.
 
 
-## Getting Started - ci - admin - test - harness - test
+## Getting Started 
 
 Use this README to get started with our sample pipeline repository for Go. This guide outlines the basics of getting started with the Harness CI and provides a full code sample for you to try out. This sample doesn’t include configuration options, for in-depth steps and configuring the pipeline for example using triggers or using our templates see the Pipeline Configuration Docs.
 
@@ -13,7 +13,7 @@ The Pipeline will build and run a unit test on a sample go repository, and uploa
 
 ## Workflow
 - Build the code and run unit tests.
-- Package the app as a Docker image and upload it to Docker Hub. test - harness - test
+- Package the app as a Docker image and upload it to Docker Hub.
 
 
 ## Graphical Summary : test harness
